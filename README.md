@@ -1,9 +1,17 @@
 # COMMAND LINE INTERFACE (CLI) INTRODUCTION
 ## 1. Terminology
-Node: A VM in the cluster
-NodeGroup: A group of VMs with same functionality and spec
-Cluster: A group of NodeGroups working together
-Distro: A Hadoop distribution version
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>Node: A
+VM in the cluster</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>NodeGroup:
+A group of VMs with same functionality and spec</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>Cluster:
+A group of NodeGroups working together</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>Distro:
+A Hadoop distribution version</span></p>
+
 
 ## 2. Usage
 CLI supports shell mode, command line mode, and execution of script file. After compile, you can find the jar file under cli/target directory.
