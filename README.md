@@ -173,8 +173,8 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK12"></a><a name="OLE_LINK11"><span style='font-size:
-  9.0pt;font-family:"Times New Roman","serif"'>Show resource pool information.</span></a></p>
+  normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>
+  Show resource pool information.</span></p>
   </td>
  </tr>
  <tr>
