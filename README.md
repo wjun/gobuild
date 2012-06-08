@@ -200,8 +200,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK6"></a><a name="OLE_LINK5"><b><span
-  style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></a></p>
+  normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Delete
   an unused resource pool.</span></p>
