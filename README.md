@@ -30,7 +30,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
 - Command level help: to get help for a particular operation, user can enter help followed by an object and an operation. This will display all parameters.
 
 ## 5. Command List
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=624
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=800
  style='width:6.5in;border-collapse:collapse;border:none'>
  <tr>
   <td width=67 valign=top style='width:.7in;border:solid windowtext 1.0pt;
