@@ -163,9 +163,8 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--name
   &lt;resource pool name&gt;</span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--detail&lt;<a
-  name="OLE_LINK10"></a><a name="OLE_LINK9">flag to show </a>node
-  information&gt;</span></p>
+  normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--detail
+  &lt;flag to show node information&gt;</span></p>
   </td>
   <td width=275 valign=top style='width:206.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
