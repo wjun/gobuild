@@ -120,7 +120,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   &lt; VC rp name &gt; </span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--vccluster
-  &lt;<a name="OLE_LINK16"></a><a name="OLE_LINK15">vsphere </a>cluster
+  &lt;<a name="OLE"></a><a name="OLE">vsphere </a>cluster
   name&gt;</span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Options</span></b></p>
