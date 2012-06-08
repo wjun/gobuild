@@ -230,7 +230,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Mandatory</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--name
-  <a name="OLE_LINK8"></a><a name="OLE_LINK7">&lt;data store name&gt;</a></span></p>
+  &lt;data store name&gt;</span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--spec
   &lt;</span><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>datastore
@@ -253,8 +253,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Remark</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>When
-  the spec parameter include some <a name="OLE_LINK28"></a><a name="OLE_LINK27">datastore
-  </a>names, users need to use &quot;,&quot; to separate them. Users may also specify
+  the spec parameter include some datastore names, users need to use &quot;,&quot; to separate them. Users may also specify
   multiple data stores by a wildcard.</span></p>
   </td>
  </tr>
@@ -285,8 +284,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK14"></a><a name="OLE_LINK13"><b><span
-  style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></a></p>
+  normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Show
   datastore information.</span></p>
@@ -394,11 +392,10 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK20"></a><a name="OLE_LINK19"><b><span
-  style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></a></p>
+  normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Add
-  a <a name="OLE_LINK22"></a><a name="OLE_LINK21">network </a>to Serengeti.</span></p>
+  a network to Serengeti.</span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Remark</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
@@ -442,11 +439,9 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:31.05pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK24"></a><a name="OLE_LINK23"><b><span
-  style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></a></p>
+  normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK36"></a><a name="OLE_LINK35"><span style='font-size:
-  9.0pt;font-family:"Times New Roman","serif"'>Show network information.</span></a></p>
+  normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Show network information.</span></a></p>
   </td>
  </tr>
  <tr>
@@ -605,7 +600,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   group name&gt; </span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--instanceNum
-  &lt;<a name="OLE_LINK32"></a><a name="OLE_LINK31">instance</a> number&gt;</span></p>
+  &lt;instance number&gt;</span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Options</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
@@ -720,7 +715,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Options</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--name
-  <a name="OLE_LINK34"></a><a name="OLE_LINK33">&lt;cluster name&gt;</a></span></p>
+  &lt;cluster name&gt;</a></span></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--detail
   &lt;flag to show node information&gt;</span></p>
@@ -729,8 +724,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><a name="OLE_LINK38"></a><a name="OLE_LINK37"><b><span
-  style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></a></p>
+  normal'><b><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Function</span></b></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>Show
   cluster information.</span></p>
@@ -764,8 +758,7 @@ command-key-value-fullsize ::= '--'<command-key-full> [<value>]
   normal'><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>--detail
   &lt;</span><span style='font-size:10.0pt;font-family:"Times New Roman","serif"'>
   </span><span style='font-size:9.0pt;font-family:"Times New Roman","serif"'>flag
-  to show <a name="OLE_LINK40"></a><a name="OLE_LINK39">distro </a>detail
-  information&gt;</span></p>
+  to show distro detail information&gt;</span></p>
   </td>
   <td width=275 valign=top style='width:206.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
