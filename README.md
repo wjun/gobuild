@@ -12,17 +12,41 @@ CLI supports shell mode, command line mode, and execution of script file. After 
 - Execution of script file: in shell mode or command line mode, execute "script --file scriptFileName". The shell history file named cli.log will help to generate the script file. 
 
 ## 3. Command Syntax
-CLI commands are built on spring shell(https://github.com/SpringSource/spring-shell), so its syntax follows spring shell command syntax below:
-Command ::= serengeti <command-category> <command-name> <required-command-key-values>* [<optional-command-key-values>]*
-required-command-key-values ::= <command-key-value-fullsize>
-optional-command-key-values ::= <command-key-value-fullsize>
-required-command-key-values-fullsize ::= <command-key-value-fullsize>
-optional-command-key-value-fullsize ::= <command-key-value-fullsize>
-command-key-value-fullsize ::= '--'<command-key-full> [<value>]
-- Command-category is the type of object that the command will operate on.
-- Command-name is the operation to do.
-- Required-command-key-values are parameters that required for the operation.
-- Optional-command-key-values are parameters that are optional for the operation.
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>CLI
+commands are built on spring
+shell(https://github.com/SpringSource/spring-shell), so its syntax follows
+spring shell command syntax below:</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>Command
+::= serengeti &lt;command-category&gt; &lt;command-name&gt; &lt;required-command-key-values&gt;*
+[&lt;optional-command-key-values&gt;]*</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>required-command-key-values
+::= &lt;command-key-value-fullsize&gt;</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>optional-command-key-values
+::= &lt;command-key-value-fullsize&gt;</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>required-command-key-values-fullsize
+::= &lt;command-key-value-fullsize&gt;</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>optional-command-key-value-fullsize
+::= &lt;command-key-value-fullsize&gt;</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>command-key-value-fullsize
+::= '--'&lt;command-key-full&gt; [&lt;value&gt;]</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>-
+Command-category is the type of object that the command will operate on.</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>-
+Command-name is the operation to do.</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>-
+Required-command-key-values are parameters that required for the operation.</span></p>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman","serif"'>-
+Optional-command-key-values are parameters that are optional for the operation.</span></p>
 
 ## 4. Command Help
 - Shell level Help: user can get shell level help by using "help" in command line mode or help command in shell mode. A list of objects will be displayed with operations and short descriptions.
